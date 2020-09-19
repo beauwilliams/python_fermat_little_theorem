@@ -19,7 +19,7 @@ result = (a**(p-1)) % p
 print ("a=",a)
 print ("p=",p)
 print ("GCD(a,p)=",gcd(a,p))
-print ("Result of FMT: ",(a**(p-1)) % p)
+print ("Result of FMT: ",result)
 
 if result == 1:
     print("Relatively Comprime")
