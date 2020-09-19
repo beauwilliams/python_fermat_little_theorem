@@ -1,5 +1,6 @@
 import sys
 
+print("Input two numbers to test if they are relatively coprime using Fermats Little Theorem")
 a_in = input ("Enter a number for a: ")
 p_in = input ("Enter a number for p: ")
 
